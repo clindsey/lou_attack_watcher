@@ -1,0 +1,10 @@
+LoU incoming attacks warner thingum
+
+this phantomjs project is meant to programmatically figure out if you or your alliance have any incoming attacks
+
+add your account username and password to the 'logging in' step in index.js
+
+**IT IS STILL INCOMPLETE**
+
+known issues:
+* the game doesn't load, the progress bar doesn't move at all
